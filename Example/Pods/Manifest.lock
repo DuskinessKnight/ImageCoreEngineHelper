@@ -1,0 +1,16 @@
+PODS:
+  - ImageCoreEngineHelper (0.1.0)
+
+DEPENDENCIES:
+  - ImageCoreEngineHelper (from `../`)
+
+EXTERNAL SOURCES:
+  ImageCoreEngineHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageCoreEngineHelper: f299a9252ffb48fba31f14b34d974d48f82fb608
+
+PODFILE CHECKSUM: c162973846580816e34ec0563baaecddefaccd7b
+
+COCOAPODS: 1.15.2

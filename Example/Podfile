@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ImageCoreEngineHelper_Example' do
+  pod 'ImageCoreEngineHelper', :path => '../'
+
+  target 'ImageCoreEngineHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

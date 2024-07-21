@@ -1,0 +1,6 @@
+framework module Pods_ImageCoreEngineHelper_Example {
+  umbrella header "Pods-ImageCoreEngineHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
