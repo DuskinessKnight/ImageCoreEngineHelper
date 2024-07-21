@@ -17,7 +17,7 @@ ImageCoreEngineHelper is available through [CocoaPods](https://cocoapods.org). T
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ImageCoreEngineHelper'
+pod 'ImageCoreEngineHelper',:git => 'https://github.com/DuskinessKnight/ImageCoreEngineHelper.git' 
 ```
 
 ## Author
