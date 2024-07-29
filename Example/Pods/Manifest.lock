@@ -1,5 +1,5 @@
 PODS:
-  - ImageCoreEngineHelper (0.1.1)
+  - ImageCoreEngineHelper (0.1.2)
 
 DEPENDENCIES:
   - ImageCoreEngineHelper (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ImageCoreEngineHelper: 727dad043661816d8e320004b9b19c378d99b7b3
+  ImageCoreEngineHelper: bfcd664fdcfd9a42e53a02a8a00e354532af17cb
 
 PODFILE CHECKSUM: c162973846580816e34ec0563baaecddefaccd7b
 
